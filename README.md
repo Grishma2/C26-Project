@@ -1,1 +1,4 @@
-# C26-Project
+# p5.play-boilerplate
+Boiler plate for p5.play
+
+The recipe is for pizza. 
